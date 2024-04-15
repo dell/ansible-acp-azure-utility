@@ -1,0 +1,7 @@
+from __future__ import absolute_import
+
+# flake8: noqa
+
+# import apis into api package
+from mcp_ansible_utility_az.api.authentication_of_apex_cloud_platform_manager_api import AuthenticationOfAPEXCloudPlatformManagerApi
+from mcp_ansible_utility_az.api.installation_and_deployment_of_apex_cloud_platform_for_microsoft_azure_api import InstallationAndDeploymentOfAPEXCloudPlatformForMicrosoftAzureApi

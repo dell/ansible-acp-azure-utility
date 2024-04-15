@@ -1,0 +1,22 @@
+# Please follow https://eos2git.cec.lab.emc.com/vxrail/poxio/blob/master/.github/template_guide.md to set up commit template
+# Please follow https://eos2git.cec.lab.emc.com/vxrail/community/blob/master/repo-owners/guide/vxrail-develop-release-guideline.md#commit-message to ensure your commit body contains sufficient sections and information.
+# Title regex: ^(?P<kind>feat|fix|.*)\((?P<area>[a-z ]+)\): (\[(?P<jira>[a-zA-Z]+\-\d+)\])*(?P<summary>.*)$
+
+
+Description
+------------
+
+Root cause
+------------
+
+Fix solution
+------------
+
+How Has This Been Tested?
+------------
+
+Release Note
+------------
+
+```release-note
+```
